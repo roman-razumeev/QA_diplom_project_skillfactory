@@ -1,3 +1,9 @@
+import os
+from dotenv import load_dotenv
+
+# Подгружаем учетные записи из .env
+load_dotenv()
+
 # CONSTANTS CLASS
 class RTC():  # RTC - RosTeleCom
 
@@ -9,9 +15,9 @@ class RTC():  # RTC - RosTeleCom
     URL_KEY_WEB = 'https://key.rt.ru/'
 
     # joe doe - valid account:
-    VALID_EMAIL = 'joe.doe@1secmail.com'
-    VALID_LOGIN = 'rtkid_1680847166060'
-    VALID_PASSWORD = 'QscWdvEfb1!'
+    VALID_EMAIL = os.getenv('VALID_EMAIL')
+    VALID_LOGIN = os.getenv('VALID_LOGIN')
+    VALID_PASSWORD = os.getenv('VALID_PASSWORD')
 
     # some verified passws:
     VALID_PASSWORD_8 = "_=d;-A#b"  # 8 symbols
