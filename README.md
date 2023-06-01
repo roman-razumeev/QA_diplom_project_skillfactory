@@ -4,7 +4,7 @@
 1) Требований заказчика “[Требования_SSO_для_тестирования_last.doc](https://docs.google.com/document/d/18F9cmg5wYkZt1mkXFSoCD4HSCRUF87Cf/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”
 2) Задания от учебной платформы Skillfactory “[SF_instruction.pdf](https://drive.google.com/file/d/136pleOBIMdf5tvUWVF7Rv6c1xO0-2bQB/view?usp=share_link)” 
 
-Составлены тест-кейсы “[Тест-кейсы.xlsx](https://docs.google.com/spreadsheets/d/1kO4JYphCtGEIM6NQjoO_Xi5rAneaQF2e/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”, проанализированы требования в файле “[Требования_мои_комменты.doc](https://docs.google.com/spreadsheets/d/1kO4JYphCtGEIM6NQjoO_Xi5rAneaQF2e/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”, оформлены баг-репорты “[Баг-репорты.xlsx](https://docs.google.com/spreadsheets/d/1k9kh_1XGtubH96kDWQehckSvAixRNIDq/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”. 
+Составлены тест-кейсы “[Тест-кейсы.xlsx](https://docs.google.com/spreadsheets/d/1kO4JYphCtGEIM6NQjoO_Xi5rAneaQF2e/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”, проанализированы требования “[Требования_мои_комменты.doc](https://docs.google.com/spreadsheets/d/1kO4JYphCtGEIM6NQjoO_Xi5rAneaQF2e/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”, оформлены баг-репорты “[Баг-репорты.xlsx](https://docs.google.com/spreadsheets/d/1k9kh_1XGtubH96kDWQehckSvAixRNIDq/edit?usp=share_link&ouid=102802765291179425980&rtpof=true&sd=true)”. 
 Все перечисленные документы находятся в папке *docs*.<br> 
 Итого по подсчету pytest – 463 тест-проверки (collected 463 items).
 
