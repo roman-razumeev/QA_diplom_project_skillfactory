@@ -1,0 +1,9 @@
+
+services:
+  allure_report:
+    build:
+      context: .
+    volumes:
+      - ./allure_result:/app/allure_result
+    ports:
+      - 127.0.0.1:9999:9999
